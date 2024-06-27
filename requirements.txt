@@ -1,10 +1,7 @@
-
+streamlit
+langchain-openai
+langchain-core
+langchain-community
+python-dotenv
 PyPDF2
-gradio
-transformers
-einops
-accelerate
-langchain
-bitsandbytes
-sentence_transformers
-llama-index
+faiss-cpu

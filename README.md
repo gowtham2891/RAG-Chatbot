@@ -53,4 +53,4 @@ This project showcases the development of a cutting-edge Retriever-Augmented Gen
 
 ## Contact
 
-For any questions or suggestions, please contact [gowtamdupati28@gmail.com](mailto:your-email@example.com).
+For any questions or suggestions, please contact [gowtamdupati28@gmail.com](mailto:gowtamdupati28@gmail.com).
